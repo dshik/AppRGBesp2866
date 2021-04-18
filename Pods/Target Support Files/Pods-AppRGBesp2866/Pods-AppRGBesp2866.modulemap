@@ -1,0 +1,6 @@
+framework module Pods_AppRGBesp2866 {
+  umbrella header "Pods-AppRGBesp2866-umbrella.h"
+
+  export *
+  module * { export * }
+}
